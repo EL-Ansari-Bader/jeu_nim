@@ -1,6 +1,6 @@
 
 
-Welcome to NBA/NBO  CHURN's documentation!
+Welcome to Jeu de Nim documentation!
 ==========================================
 
 .. toctree::
