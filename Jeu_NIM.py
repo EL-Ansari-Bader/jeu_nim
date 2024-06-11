@@ -138,7 +138,7 @@ def play_nim():
         else:
             while True:
                 try:
-                    Action_Joueur = int(input('Ton Tour (Prenez 1, 2, or 3 Allumettes): '))
+                    Action_Joueur = random.choice([1, 2 ,3])
                     if Action_Joueur in ACTIONS and Action_Joueur <= etat:
                         break
                     else:
