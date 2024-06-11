@@ -1,4 +1,4 @@
 Sphinx==5.0.2
 sphinx-hoverxref
-furo
+sphinx_rtd_theme
 numpy
