@@ -1,1 +1,1 @@
-pip install sphinx-hoverxref
+sphinx-hoverxref
